@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "password123",
+      "phone": "123-456-7890"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "password": "password456",
+      "phone": "987-654-3210"
+    },
+    {
+      "id": 3,
+      "name": "Jaden Smith",
+      "email": "jaden@example.com",
+      "password": "password45611",
+      "phone": "907-650-1210"
+    },
+    {
+      "id": 4,
+      "name": "Jary Smith",
+      "email": "jary@example.com",
+      "password": "password411",
+      "phone": "987-659-1216"
+    }
+  ]
+}
